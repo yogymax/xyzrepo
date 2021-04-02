@@ -5,9 +5,7 @@ public class A {
 		System.out.println("These changes added by 1st developer..!");
 		System.out.println("Added code in A file--by dev1");
 		System.out.println("A file Changed...");
+
 		System.out.println("Inside A File --> Reports sathi...!");
-		
-		
-		System.out.println("X contents added...!");
 	}
 }
